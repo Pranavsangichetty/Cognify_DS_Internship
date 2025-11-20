@@ -62,6 +62,94 @@ As stated in the certificate (Page 1) :
 
 ---
 
+📁 Internship Deliverables
+
+The internship included multiple structured tasks covering real-world data science workflows. All deliverables are included in this repository.
+
+✅ Task 1 — Exploratory Data Analysis (EDA)
+
+Files:
+
+task-1.1.ipynb
+
+task-1.2.ipynb
+
+task-1.3.ipynb
+
+Key work:
+
+Data cleaning & preprocessing
+
+Handling missing values
+
+Visualizing distributions, correlations, and relationships
+
+Generating actionable insights from raw data
+
+✅ Task 3 — Machine Learning Model Development
+
+Files:
+
+task-3.1.ipynb
+
+task-3.2.ipynb
+
+task-3.3.ipynb
+
+Key work:
+
+Building supervised ML models
+
+Training classifiers & regressors
+
+Confusion matrix, accuracy, precision-recall evaluation
+
+Hyperparameter tuning
+
+Comparing performance across multiple algorithms
+
+🧪 Technical Skills Demonstrated
+
+Data Handling & Preprocessing
+
+Pandas, NumPy
+
+Data cleaning, imputation
+
+Encoding techniques (One-Hot, Ordinal)
+
+Feature scaling
+
+Machine Learning
+
+Logistic Regression
+
+Decision Trees
+
+Random Forest
+
+Boosting algorithms
+
+Evaluation metrics (Accuracy, F1, AUC, RMSE)
+
+Visualization
+
+Matplotlib, Seaborn
+
+Heatmaps, histograms, scatter plots
+
+Model comparison charts
+
+Documentation & Reporting
+
+Jupyter Notebook explanations
+
+Clear visual insights
+
+Step-by-step methodology
+
+---
+
 ## 🎯 Key Skills Gained
 
 * Data preprocessing & feature engineering
